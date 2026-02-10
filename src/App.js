@@ -1,7 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
+import { useState } from 'react';
 
 function App() {
+
+  const [contador, setContador] = useState(0);
+
+
+
+
   return (
     <div className="App">
       <header className="App-header">
@@ -17,7 +24,15 @@ function App() {
         >
           Learn React
         </a>
+
+        <div>
+          <h2>Contador: {contador}</h2>
+          <button onClick={() => setContador(contador + 1)}>+1</button>
+          <button onClick={() => setContador(contador - 1)}>-1</button>
+
+        </div>
       </header>
+
     </div>
   );
 }
