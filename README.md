@@ -1,10 +1,11 @@
+GitHub Repository link: https://github.com/BL3SS3D-19/proyFinal_frontend/
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This project was deployed with Vercel.You can visit it at https://proy-final-frontend.vercel.app/
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory (mod6/mi-proyecto), you can run:
 
 ### `npm start`
 
