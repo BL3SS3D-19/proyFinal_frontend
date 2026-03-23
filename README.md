@@ -5,7 +5,7 @@ GitHub Repository link: https://github.com/BL3SS3D-19/proyFinal_frontend/
 This project was deployed with Vercel.You can visit it at https://proy-final-frontend.vercel.app/
 ## Available Scripts
 
-In the project directory (mod6/mi-proyecto), you can run:
+In the project directory (mod6/mi-proyecto), you can run: (You should run "npm install" before any other command so the app will be built with any issues)
 
 ### `npm start`
 
